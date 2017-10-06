@@ -1,0 +1,17 @@
+{
+  "_comment": "sqlite" "^2.8.0",
+  "name": "Monticule",
+  "version": "1.0.0",
+  "description": "Multipurpose Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "twilysparklez",
+  "license": "ISC",
+  "dependencies": {
+    "convert-units": "^2.3.1",
+    "discord.js": "^11.2.1",
+  }
+}
